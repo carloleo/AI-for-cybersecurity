@@ -7,10 +7,10 @@ The project's aim was to devise a heuristic to estimate the suspiciousness level
 
 Starting from raw data of login/logout attempts:
 
-* Features elaboration
-* Attempts series construction
-      i. For user
-      ii. For source IP
-* Heurist function calculation
+Markup :    * Features elaboration
+            * Attempts series construction
+                  * For user
+                  * For source IP
+            * Heurist function calculation
 
 For more details see docs/project presentation.pdf
