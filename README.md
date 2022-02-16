@@ -9,8 +9,8 @@ Starting from raw data of login/logout attempts:
 
 * Features elaboration
 * Attempts series construction
-           * For user
-           * For source IP
+           - For user
+           - For source IP
 * Heurist function calculation
 
 For more details see docs/project presentation.pdf
