@@ -33,4 +33,4 @@ Drop an email to retrieve the masqueraded dataset to:
 * [Riccardo Gallo]
 
 [Carlo Leo]: <mailto:carlo_leo97@outlook.it>
-[Riccardo Gallo]: <mailto:r.gallo7@studenti.unipi.it>
+[Riccardo Gallo]: <mailto:rjknet99@icloud.com>
