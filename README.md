@@ -29,8 +29,8 @@ For more details see docs/project presentation.pdf
 
 ### Contacts
 Drop an email to retrieve the masqueraded dataset to:
-*. [Carlo Leo]
-*. [Riccardo Gallo]
+* [Carlo Leo]
+* [Riccardo Gallo]
 
 [Carlo Leo]: <mailto:carlo_leo97@outlook.it>
 [Riccardo Gallo]: <mailto:r.gallo7@studenti.unipi.it>
